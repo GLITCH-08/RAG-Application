@@ -17,7 +17,7 @@ To run the Content Engine on your local machine, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/content-engine.git
+   git clone https://github.com/GLITCH-08/RAG-Application.git
    cd content-engine
    ```
 2. **Install dependencies:**
